@@ -1,0 +1,5 @@
+*.zip
+*.rb
+*.log
+index.html
+releaser.rb

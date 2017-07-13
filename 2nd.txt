@@ -1,0 +1,6 @@
+blah
+hello
+how is this
+more stuff
+asdlffi
+Test the auto-add/commit.
