@@ -2,5 +2,6 @@ blah
 hello
 how is this
 more stuff
+more stuff2
 asdlffi
 Test the auto-add/commit.
